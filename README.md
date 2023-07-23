@@ -1,1 +1,4 @@
-# food_menu
+## Run
+```shell
+  uvicorn main:app --reload
+```
